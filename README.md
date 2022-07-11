@@ -4,7 +4,7 @@
 
 ```
 cd ~/.oh-my-zsh/custom/plugins
-git clone https://github.com/bernardop/iterm-tab-color-oh-my-zsh.git iterm-tab-color
+git clone https://github.com/sjanota/iterm-tab-color-oh-my-zsh.git iterm-tab-color
 ```
 
 Enable it by adding _iterm-tab-color_ to your plugins array in `$HOME/.zshrc`
